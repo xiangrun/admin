@@ -7,7 +7,7 @@ const {Header, Footer, Content,} = Layout;
 const BaseLayout =()=>{
     return(
         <>
-        <div>wo </div>
+        <Header>头</Header>
        {BaseRouter()}
         </>
    
